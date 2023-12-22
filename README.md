@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Screenshot 1](https://github.com/harryhritik12/news_flutter/raw/main/Screenshot%202023-12-21%20223907.png)
+
+![Screenshot 2](https://github.com/harryhritik12/news_flutter/raw/main/Screenshot%202023-12-22%20173839.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
